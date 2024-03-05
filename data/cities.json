@@ -1,0 +1,124 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "8b9c",
+      "cityName": "Tarifa",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-01T06:46:13.210Z",
+      "notes": "",
+      "position": {
+        "lat": "36.2265501474709",
+        "lng": "-5.756835937500001"
+      }
+    },
+    {
+      "id": "7380",
+      "cityName": "Nablus",
+      "country": "Palestine, State of",
+      "emoji": "🇵🇸",
+      "date": "2024-03-01T06:48:26.155Z",
+      "notes": "",
+      "position": {
+        "lat": "32.27044236527894",
+        "lng": "35.294866561889656"
+      }
+    },
+    {
+      "id": "ac8f",
+      "cityName": "Amman",
+      "country": "Jordan",
+      "emoji": "🇯🇴",
+      "date": "2024-03-01T06:49:02.015Z",
+      "notes": "",
+      "position": {
+        "lat": "31.931185811406294",
+        "lng": "35.92803955078126"
+      }
+    },
+    {
+      "id": "8984",
+      "cityName": "Mecca",
+      "country": "Saudi Arabia",
+      "emoji": "🇸🇦",
+      "date": "2024-03-01T06:50:01.728Z",
+      "notes": "",
+      "position": {
+        "lat": "21.427503474404094",
+        "lng": "39.85290527343751"
+      }
+    },
+    {
+      "id": "9b29",
+      "cityName": "Ankara",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-03-01T06:52:11.185Z",
+      "notes": "yuy",
+      "position": {
+        "lat": "39.80853604144591",
+        "lng": "32.89306640625001"
+      }
+    },
+    {
+      "id": "7323",
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-03-01T07:04:10.521Z",
+      "notes": "sfsdsf",
+      "position": {
+        "lat": "41.86956082699455",
+        "lng": "12.48046875"
+      }
+    },
+    {
+      "id": "1731",
+      "cityName": "Istanbul",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-03-01T18:12:33.894Z",
+      "notes": "",
+      "position": {
+        "lat": "41.00477542222949",
+        "lng": "28.998413085937504"
+      }
+    }
+  ]
+}
